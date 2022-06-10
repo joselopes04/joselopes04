@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on an Android Studio Project
 - 🌱 I’m currently learning Dart and Flutter
 - 📩 How to reach me: joselopes5589@gmail.com
-- ⚡ What i like: 
+- ⚡ Things that i like: 
 - 💻 Programming
 - ⚽ Football
 - 🎵 Music
