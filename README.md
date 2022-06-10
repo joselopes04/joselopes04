@@ -4,8 +4,10 @@
 
 - 🔭 I’m currently working on a Android Studio Project
 - 🌱 I’m currently learning Dart and Flutter
-- 🎵 What i like: I love  and music
+- ⚡ What i like: 
+- 💻 Programming
 - ⚽ Football
+- 🎵 Music
 - 🚗 Muscle cars
 
 <div align="center">
