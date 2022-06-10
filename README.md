@@ -13,7 +13,7 @@
 <div align="center">
   <a href="https://github.com/joselopes04/joselopes04">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joselopes04&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joselopes04&layout=compact&langs_count=16&theme=dracula"/>
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=dracula)
 </div>
   
   <div style="display: inline_block"><br>
