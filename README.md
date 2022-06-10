@@ -1,16 +1,17 @@
 ### Hi there I'm José Lopes👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joselopes04&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
-
-- 🔭 I’m currently working on a Android Studio Project
+- 🔭 I’m currently working on an Android Studio Project
 - 🌱 I’m currently learning Dart and Flutter
+- 📩 How to reach me: joselopes5589@gmail.com
 - ⚡ What i like: 
 - 💻 Programming
 - ⚽ Football
 - 🎵 Music
 - 🚗 Muscle cars
 
-<h3>Stats</h3>
+<h1>📈Stats</h1>
 <div align="center">
   <a href="https://github.com/joselopes04/joselopes04">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joselopes04&theme=dracula"/>
@@ -19,15 +20,15 @@
   
        
   
-  <h3>Languages</h3>
+  <h1>💻Languages</h1>
   <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-   <img align="right" alt="Hacker-pic" height="150" src="https://github.com/joselopes04/joselopes04/blob/main/matrix.gif">
+ 
     
-  <h3>Tools</h3>
+  <h1>🛠Tools</h1>
   <div style="display: inline_block"><br>
   <img align="center" alt="Android Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
