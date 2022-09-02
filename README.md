@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on an Android Studio Project
 - 🌱 I’m currently learning Dart and Flutter
-- 📩 How to reach me: joselopes5589@gmail.com
+- 📩 How to reach me: joseteixeiralopes2004@gmail.com
 
 <h1>📈Stats</h1>
 <div align="center">
