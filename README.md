@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://github.com/joselopes04/joselopes04">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joselopes04&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joselopes04&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joselopes04&layout=compact&theme=dracula&langs_count=16"/>
 </div>
   
   <h1>💻Languages</h1>
